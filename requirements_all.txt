@@ -1011,3 +1011,6 @@ zengge==0.2
 
 # homeassistant.components.zeroconf
 zeroconf==0.19.1
+
+# homeassistant.component.device_tracker.bt_home_hub_6
+bthomehub==1.0.2
